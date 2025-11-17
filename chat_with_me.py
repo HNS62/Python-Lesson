@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+print("Hello " + name + "! Nice to meet you.")
+age = int(input("How old are you? "))
+print("You are " + str(age) + " years old.")
+countrty = input("Which country are you from? ")
+print("Wow! " + countrty + " is a beautiful place.")
